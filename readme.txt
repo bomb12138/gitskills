@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-fffffffddddd
-=======
-fffffffddddddddd
->>>>>>> feature1
+asd
